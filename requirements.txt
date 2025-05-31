@@ -1,6 +1,0 @@
-streamlit
-pandas
-matplotlib
-seaborn
-fpdf
-pytz==2023.3
