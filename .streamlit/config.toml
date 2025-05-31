@@ -4,6 +4,7 @@ backgroundColor = "#91AC8F"
 secondaryBackgroundColor = "#537D5D"
 textColor = "#fcfcfc"                   
 font = "Poppins"
+base = "light"
 
 [server]
 headless = true
@@ -11,10 +12,3 @@ headless = true
 [browser]
 serverAddress = "0.0.0.0"
 
-# Set timezone
-[theme]
-base = "light"
-
-# Environment variables
-[env]
-TZ = "Asia/Jakarta"
